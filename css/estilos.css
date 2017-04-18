@@ -30,9 +30,8 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 629px;
+    height: 529px;
     width: 100%;
-    /*text-align: center;*/
 }
 
 
@@ -64,7 +63,7 @@ figure {
     float: left;
     margin-left: 8%;
     /*background: rgba(255, 255, 255, 0.5);*/
-    /*margin-top: 2%;*/
+    margin-top: 5%;
     /*margin: 0 auto;*/
 }
 
@@ -74,7 +73,7 @@ figure {
     border-top: dotted;
     border-bottom: dotted;
     margin-top: 5%;
-    margin-right: 22%;
+    margin-right: 12%;
 }
 
 .menu ul {
@@ -92,14 +91,14 @@ figure {
     text-decoration: none;
     padding: 10px;
     font-size: 17px;
-    color: rgb(19, 106, 139);
+    color: rgb(0,0,0);
     font-weight: bold;
     /*color: #fff;*/
 }
 
 .menu ul li:hover {
     /*background-color: rgb(191, 22, 47);*/
-    background-color: #d98880;
+    background-color: #D92530;
 }
 
 .menu ul li:hover a {
@@ -111,13 +110,15 @@ figure {
 }
 
 .select {
-    background-color: #d98880;
-    color: #fff;
+    background-color: #D92530;
+    /*color: #fff;*/
 }
-
+/*.select a{
+    color: #fff;
+}*/
 .banner {
     /*outline: 2px red solid;*/
-    margin-top: 2%;
+    margin-top: 5%;
 }
 
 .tit {
@@ -177,7 +178,7 @@ figure {
 
 .imagen2 {
     color: white;
-    background-image: url(../img/productos.jpg);
+    background-image: url(../img/cctv.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -340,17 +341,20 @@ figure {
 /*----------------------------footer----------------*/
 
 footer {
+    /*border: 2px red solid;*/
     width: 100%;
-    /*   margin-top: 3%;*/
+    /*margin-top: 3%;*/
     height: 50px;
     background-color: rgb(191, 22, 47);
     overflow: hidden;
+    clear: both;
+    margin-bottom: 0px;
 }
 
 .textpie {
     color: #fff;
     font-size: 19px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     float: left;
     margin-left: 3%;
@@ -360,7 +364,7 @@ footer {
 .textpie2 {
     color: #fff;
     font-size: 19px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     float: right;
     margin-right: 5%;
