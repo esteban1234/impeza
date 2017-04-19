@@ -3,9 +3,9 @@
 	<article class="contenheaders">
 <!-- <p></p> -->
 	<header>
-		<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
+	<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
 		<i class="fa fa-sort-asc menu-cerrar" aria-hidden="true"></i>
-		<figure><img src="../img/chipahua.png" class="img-responsive" alt=""></figure>
+		<figure><img src="../img/impezaa.png" class="img-responsive" alt=""></figure>
 		<div id="menu" class="menu">
 			<ul>
 				<li><a href="../index.php"><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>
@@ -16,12 +16,12 @@
 		</div>
 	</header>
 	<article class="banner">
-		<p class="tit text-info">SERVICIOS COMPLETOS!</p>
+		<p class="tit text-primary">SERVICIOS COMPLETOS!</p>
 <p class="subtit">Servicios para hogares y centros de trabajo</p>
 	</article>
 	<div class="btn-toolbar botonb" role="toolbar">
   <a href="contacto.php">
-		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		  	<button onclick="" type="button" class="btn btn-primary btn-lg">
 		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
 		  	</button>
 	</a>
@@ -29,7 +29,7 @@
 </article>
 
 <article class="contenedor">
-<h1 class="alserv text-info">SERVICIOS</h1>
+<h1 class="alserv text-primary">SERVICIOS</h1>
 
 <article class="caja_q">
             <article class="caja_q_1">
@@ -86,59 +86,59 @@
 
 <article class="contenproductos">
 	<article class="fondo">
-		<p class="titarticulos">Articulos de limpieza</p>
+		<p class="titarticulos">Cámaras</p>
 		<article class="contencir">
 			<article class="cuadros">
 				<div class="imgcuadros">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Aerosoles</div>
+				<div class="nameproductos">Turbo HD</div>
 			</article>
 
 			<article class="cuadros">
 				<div class="imgcuadros2">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Trapeador</div>
+				<div class="nameproductos">Bullets</div>
 			</article>
 
 			<article class="cuadros">
 				<div class="imgcuadros3">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Jaladores</div>
+				<div class="nameproductos">Domos</div>
 			</article>
 			<article class="cuadros">
 				<div class="imgcuadros4">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Detergentes</div>
+				<div class="nameproductos">PTZ</div>
 			</article>
 			<article class="cuadros">
 				<div class="imgcuadros5">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Aromatizantes</div>
+				<div class="nameproductos">Ocultas</div>
 			</article>
 			<article class="cuadros">
 				<div class="imgcuadros6">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Cepillos</div>
+				<div class="nameproductos">Cámaras IP</div>
 			</article>
 
 			<article class="cuadros">
 				<div class="imgcuadros7">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Toallas</div>
+				<div class="nameproductos">Cámaras analógicas</div>
 			</article>
 
 			<article class="cuadros">
 				<div class="imgcuadros8">
 					<!-- <img src="../img/raid.png" class="img-responsive" alt=""> -->
 				</div>
-				<div class="nameproductos">Papel Higiénico</div>
+				<div class="nameproductos">Cámaras infrarrojas</div>
 			</article>
 
 
@@ -152,10 +152,7 @@
 
 </article>
 
-<footer>
-	<p class="textpie">Derechos de autor 2017© | LIMPIEZA Y VIGILANCIA ESPECIALIZADA CHIPAUA S.A. de C.V.</p>
-	<p class="textpie2">info@chipahua.com</p>
-</footer>
+<?php include 'pie.php' ?>
 
 <script src="../js/jquery.js"></script>
 <script src="../js/menu.js"></script>

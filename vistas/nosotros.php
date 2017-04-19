@@ -5,9 +5,9 @@
 <article class="contenheadern">
 <!-- <p></p> -->
 	<header>
-		<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
+	<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
 		<i class="fa fa-sort-asc menu-cerrar" aria-hidden="true"></i>
-		<figure><img src="../img/chipahua.png" class="img-responsive" alt=""></figure>
+		<figure><img src="../img/impeza.png" class="img-responsive" alt=""></figure>
 		<div id="menu" class="menu">
 			<ul>
 				<li><a href="../index.php"><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>
@@ -18,12 +18,12 @@
 		</div>
 	</header>
 	<article class="banner">
-		<p class="tit text-info">SEGURIDAD COMPLETA!</p>
+		<p class="tit text-primary">SEGURIDAD COMPLETA!</p>
 <p class="subtit">Monitoriamos hogares y centros de trabajo</p>
 	</article>
 	<div class="btn-toolbar botonb" role="toolbar">
   <a href="contacto.php">
-		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		  	<button onclick="" type="button" class="btn btn-primary btn-lg">
 		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
 		  	</button>
 	</a>
@@ -31,9 +31,9 @@
 </article>
 
 <article class="contenedor">
-<h1 class="alserv text-info">QUIENES SOMOS</h1>
+<h1 class="alserv text-primary">QUIENES SOMOS</h1>
 <article class="texton">
-	<p class="textndentro"><strong>Chipaua</strong> es una empresa que se dedica a los servicios de limpieza y vigilancia, contando amplia experiencia para los diferentes retos que se presentan hoy en dia.  Actualmente contamos con la gama de servicios más completos.  Con la finalidad de cumplir las expectativas que nos son demandantes en el área de seguridad y limpieza. </p>
+	<p class="textndentro"><strong>Impeza</strong> es una empresa que se dedica a los servicios de vigilancia por CCTV y personal activo y servicios de limpieza, contando amplia experiencia para los diferentes retos que se presentan hoy en dia.  Actualmente contamos con la gama de servicios más completos.  Con la finalidad de cumplir las expectativas que nos son demandantes en el área de seguridad y limpieza. </p>
 </article>
 
 <article class="contienetextoeimagenes">
@@ -65,11 +65,11 @@
 	</article>
 	<article class="imagenes">
 		<figure class="imagenesdentro">
-			<img src="../img/limpieza2.jpg" class="img-responsive" alt="">
+			<img src="../img/img12.jpg" class="img-responsive" alt="">
 		</figure>
 
 		<figure class="imagenesdentro2">
-			<img src="../img/guardias.jpg" class="img-responsive" alt="">
+			<img src="../img/img9.png" class="img-responsive" alt="">
 		</figure>
 	</article>
 </article>
@@ -77,7 +77,7 @@
 
 <div class="btn-toolbar boton" role="toolbar">
   <a href="contacto.php">
-		  	<button onclick="" type="button" class="btn btn-info btn-lg">
+		  	<button onclick="" type="button" class="btn btn-primary btn-lg">
 		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
 		  	</button>
 	</a>
@@ -85,10 +85,7 @@
 <br>
 </article>
 
-	<footer>
-	<p class="textpie">Derechos de autor 2017© | LIMPIEZA Y VIGILANCIA ESPECIALIZADA CHIPAUA S.A. de C.V.</p>
-	<p class="textpie2">info@chipahua.com</p>
-</footer>
+	<?php include 'pie.php' ?>
 
 <script src="../js/jquery.js"></script>
 <script src="../js/menu.js"></script>

@@ -4,8 +4,9 @@
 <article class="contenheader">
 <!-- <p></p> -->
 	<header>
-	
-		<figure><img src="img/impeza.png" class="img-responsive" alt=""></figure>
+		<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
+		<i class="fa fa-sort-asc menu-cerrar" aria-hidden="true"></i>
+		<figure><img src="img/impezaa.png" class="img-responsive" alt=""></figure>
 		<div id="menu" class="menu">
 			<ul>
 				<li class="select"><a href=""><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>
@@ -50,7 +51,7 @@
 	<article class="icono2"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;CCTV</article>
 		<div class="info">
 			<p class="headline">CCTV</p>
-			<p class="info2">Digitales y analógicas. Cámaras IP, para vigilancia nocturna, fijas y PTZ.</p>
+			<p class="info2">Monitoreo de inmuebles con alarmas, sensores, Cámaras Digitales y analógicas. Cámaras IP, para vigilancia nocturna, fijas y PTZ.</p>
 		</div>
 	</div>
 
@@ -75,6 +76,7 @@
 </article>
 
 <article class="bannerindexabajo">
+<figure><img src="img/impeza.png" class="img-responsive" alt=""></figure>
 	<p>Somos la mejor inversión en la vigilancia de sus oficinas.</p>
 	<div class="btn-toolbar boton" role="toolbar">
   <a href="vistas/contacto.php">
@@ -87,10 +89,7 @@
 
 </article>
 
-<footer>
-	<p class="textpie">Derechos de autor 2017© | IMPEZA S.A. de C.V.</p>
-	<p class="textpie2">info@impeza.com</p>
-</footer>
+<?php include 'vistas/pie.php' ?>
 
 <!-- <span class="ir-arriba icon-chevron-up"></span> -->
 <script src="js/jquery.js"></script>
