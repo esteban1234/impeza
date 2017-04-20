@@ -5,9 +5,9 @@
 <article class="contenheadern">
 <!-- <p></p> -->
 	<header>
-	<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
+		<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
 		<i class="fa fa-sort-asc menu-cerrar" aria-hidden="true"></i>
-		<figure><img src="../img/impeza.png" class="img-responsive" alt=""></figure>
+		<figure class="img-logo"><img src="../img/impeza.png" class="img-responsive" alt=""></figure>
 		<div id="menu" class="menu">
 			<ul>
 				<li><a href="../index.php"><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>

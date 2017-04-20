@@ -9,17 +9,22 @@
     height: 100%;
   }
 
-  figure
+  .img-logo
   {
-    width: 70%;
-    margin: 0px;
+    width: 50%;
+    margin: 10% 8%;
+  }
+
+  .img-impeza{
+    margin-left: 33%;
+    width: 37%;
   }
 
   .menu-abrir, .menu-cerrar{
     font-size: 35px;
     float: right;
     margin-right: 10%;
-    margin-top: 15%;
+    margin-top: 12%;
     display: block;
     cursor: pointer;
   }
@@ -41,6 +46,7 @@
     text-align: center;
   }
 
+ 
   .banner .tit, .banner .subtit{
     width: 100%;
     margin: 0px;
@@ -52,10 +58,7 @@
     padding: 5% 0px;
   }
 
-  .banner .subtit{
-    padding: 3%;
-  }
-
+  
   .contenheader .botonb
   {
     margin: 5% auto;
@@ -68,9 +71,6 @@
     display: none;
   }
 
-  .contenedor{
-    /*border: 2px solid red;*/
-  }
 
   .contenedor .alserv
   {
@@ -78,13 +78,9 @@
     font-weight: bold;
   }
 
-  .contenedor .contenserv{
-    /*border: 2px solid red;*/
-  }
-
+ 
   .contenserv .contendivs
   {
-    /*border: 2px solid green;*/
     width: 100%;
   }
 
@@ -105,7 +101,10 @@
 
   .icono, .icono2
   {
-    margin-top: 10%;
+    margin-top: 20%;
+    background: rgba(0,0,0, 0.5);
+    color:#fff;
+    font-size: 20px;
   }
 
   .info{
@@ -155,12 +154,13 @@
   .bannerindexabajo p {
     padding: 5%;
     text-align: justify;
-    font-size: 25px;
+    font-size: 20px;
   }
 
 
   footer{
     height: 100%;
+    padding: 5%;
   }
 
   .textpie, .textpie2{
@@ -170,10 +170,10 @@
     text-align: justify;
   }
 
-  .textpie{
-    padding: 5%;
+.textpie{
+    text-align: center;
   }
-
+  
   .textpie2{
     text-align: center;
   }
@@ -247,9 +247,13 @@
     padding-top: 10%;
   }
 
+  .imgcuadros, .imgcuadros2, .imgcuadros3, .imgcuadros4, .imgcuadros5, .imgcuadros6, .imgcuadros7, .imgcuadros8{
+    height: 250px;
+    background-size: 100% 100%;
+  }
+
 /***************INICIA contacto**********************/
   .contact_form{
-    /*border: 2px solid red;*/
     width: 100%;
   }
 
@@ -287,17 +291,30 @@
     height: 100%;
   }
 
-  figure
+  .img-logo
   {
     width: 40%;
-    /*margin: ;*/
+    margin: 10% 12%;
+  }
+
+  .img-impeza{
+    margin-left: 33%;
+    width: 37%;
+  }
+
+  .icono, .icono2
+  {
+    margin-top: 20%;
+    background: rgba(0,0,0, 0.5);
+    color:#fff;
+    font-size: 20px;
   }
 
   .menu-abrir, .menu-cerrar{
     font-size: 35px;
     float: right;
     margin-right: 15%;
-    margin-top: 13%;
+    margin-top: 11%;
     display: block;
     cursor: pointer;
   }
@@ -332,9 +349,7 @@
     padding: 5% 0px;
   }
 
-  .banner .subtit{
-    padding: 3%;
-  }
+  
 
   .contenheader .botonb
   {
@@ -375,10 +390,6 @@
     width: 100%;
   }
 
-  .icono, .icono2
-  {
-    margin-top: 15%;
-  }
 
   .info{
     width: 100%;
@@ -431,7 +442,6 @@
   }
 
   .boton  .btn{
-    /*margin: 0px 25%;*/
     display: none;
   }
 
@@ -443,12 +453,13 @@
   .bannerindexabajo p {
     padding: 5%;
     text-align: justify;
-    font-size: 25px;
+    font-size: 20px;
   }
 
 
   footer{
     height: 100%;
+    padding: 5%;
   }
 
   .textpie, .textpie2{
@@ -459,7 +470,7 @@
   }
 
   .textpie{
-    padding: 5%;
+    text-align: center;
   }
 
   .textpie2{
@@ -542,10 +553,14 @@
     padding-top: 10%;
   }
 
+  .imgcuadros, .imgcuadros2, .imgcuadros3, .imgcuadros4, .imgcuadros5, .imgcuadros6, .imgcuadros7, .imgcuadros8{
+    height: 250px;
+    background-size: 100% 100%;
+  }
+
   /***************INICIA contacto**********************/
     .contact_form{
-      /*border: 2px solid red;*/
-      width: 100%;
+      width: 80%;
     }
 
     .contact_form ul {
@@ -585,17 +600,31 @@
 
 
 
-  figure
+  .img-logo
   {
-    width: 40%;
-    /*margin: ;*/
+    width: 30%;
+    margin: 10% 12%;
   }
+
+  .img-impeza{
+    margin-left: 38%;
+    width: 25%;
+  }
+
+  .icono, .icono2
+  {
+    margin-top: 20%;
+    background: rgba(0,0,0, 0.5);
+    color:#fff;
+    font-size: 20px;
+  }
+
 
   .menu-abrir, .menu-cerrar{
     font-size: 35px;
     float: right;
     margin-right: 15%;
-    margin-top: 13%;
+    margin-top: 11%;
     display: block;
     cursor: pointer;
   }
@@ -609,8 +638,6 @@
     width: 100%;
     margin: 0px;
     display: none;
-    /*background-color: #d98880;*/
-    /*background-color: rgba(14, 33, 71, 0.85);*/
     background-color: #fff;
   }
 
@@ -621,7 +648,6 @@
 
 
   .banner .tit, .banner .subtit{
-    /*border: 2px solid yellow;*/
     width: 100%;
     margin: 0px;
   }
@@ -629,12 +655,8 @@
   .banner .tit{
     font-size: 22px;
     font-weight: bold;
-    padding: 5% 0px;
   }
 
-  .banner .subtit{
-    padding: 3%;
-  }
 
   .contenheader .botonb
   {
@@ -677,7 +699,10 @@
 
   .icono, .icono2
   {
-    margin-top: 15%;
+    margin-top: 12%;
+    background: rgba(0,0,0, 0.5);
+    color:#fff;
+    font-size: 20px;
   }
 
   .info{
@@ -747,6 +772,7 @@
 
   footer{
     height: 100%;
+    padding: 5%;
   }
 
   .textpie, .textpie2{
@@ -757,7 +783,6 @@
   }
 
   .textpie{
-    padding: 5%;
     text-align: center;
   }
 
@@ -828,7 +853,6 @@
   }
 
   .contencir{
-    /*border: 2px solid red;*/
     overflow: hidden;
     width: 70%;
     margin: auto;
@@ -841,9 +865,13 @@
     padding-top: 10%;
   }
 
+  .imgcuadros, .imgcuadros2, .imgcuadros3, .imgcuadros4, .imgcuadros5, .imgcuadros6, .imgcuadros7, .imgcuadros8{
+    height: 250px;
+    background-size: 100% 100%;
+  }
   /***************INICIA contacto**********************/
     .contact_form{
-      width: 100%;
+      width: 60%;
     }
 
     .contact_form ul {
@@ -905,7 +933,7 @@
   }
 
   .banner .subtit{
-    padding: 3%;
+    padding: 7%;
   }
 
   .contenheader .botonb
@@ -961,6 +989,7 @@
 
   footer{
     height: 100%;
+    padding: 5%;
   }
 
   .textpie, .textpie2{
@@ -971,7 +1000,6 @@
   }
 
   .textpie{
-    padding: 5%;
     text-align: center;
   }
 
@@ -1025,13 +1053,15 @@
 
   .cuadros{
     width: 30%;
-    margin: 5% 0px;
     padding-top: 10%;
   }
 
+   .imgcuadros, .imgcuadros2, .imgcuadros3, .imgcuadros4, .imgcuadros5, .imgcuadros6, .imgcuadros7, .imgcuadros8{
+    background-size: 100% 100%;
+  }
   /***************INICIA CONTACTO**********************/
   .contact_form{
-    width: 100%;
+    width: 70%;
   }
 
   .contact_form ul {
@@ -1058,6 +1088,7 @@
   header .menu{
     margin-right: 10%;
   }
+
 }
 @media screen and (max-width: 1366px) and (min-width: 1024px) { }
 

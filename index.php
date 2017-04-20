@@ -6,7 +6,7 @@
 	<header>
 		<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
 		<i class="fa fa-sort-asc menu-cerrar" aria-hidden="true"></i>
-		<figure><img src="img/impezaa.png" class="img-responsive" alt=""></figure>
+		<figure class="img-logo"><img src="img/impezaa.png" class="img-responsive" alt=""></figure>
 		<div id="menu" class="menu">
 			<ul>
 				<li class="select"><a href=""><span><i class="fa fa-home" aria-hidden="true"></i></span>&nbsp;INICIO</a></li>
@@ -64,7 +64,6 @@
 	</div>
 </div>
 
-<!-- <p class="btn btn-info"><a href="">SERVICIOS</a></p> -->
 <div class="btn-toolbar boton" role="toolbar">
   <a href="vistas/servicios.php">
 		  	<button onclick="" type="button" class="btn btn-primary btn-lg">
@@ -76,7 +75,7 @@
 </article>
 
 <article class="bannerindexabajo">
-<figure><img src="img/impeza.png" class="img-responsive" alt=""></figure>
+<figure class="img-impeza"><img src="img/impeza.png" class="img-responsive" alt=""></figure>
 	<p>Somos la mejor inversión en la vigilancia de sus oficinas.</p>
 	<div class="btn-toolbar boton" role="toolbar">
   <a href="vistas/contacto.php">

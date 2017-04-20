@@ -46,15 +46,8 @@
 */
 
 header {
-    /*padding: 10px 0px 10px 0px;*/
-    /*background: rgba(0, 0, 0, 0.5);*/
-    /*border: 2px red solid;*/
-    /*color: #00bdff;*/
     width: 100%;
     overflow: hidden;
-    /*text-align: center;
-font-size: 1.3em;
-*/
 }
 
 figure {
@@ -69,9 +62,6 @@ figure {
 
 .menu {
     float: right;
-    /*border: 2px red solid;*/
-    /*border-top: dotted;*/
-    /*border-bottom: dotted;*/
     border-top: 1px #000 solid;
     border-bottom: 1px #000 solid;
     margin-top: 5%;
@@ -99,8 +89,6 @@ figure {
 }
 
 .menu ul li:hover {
-    /*background-color: rgb(191, 22, 47);*/
-    /*background-color: #D92530;*/
     background-color: #67BAAF;
 }
 
@@ -108,20 +96,15 @@ figure {
     color: #fff;
 }
 
-.menu-abrir{
+.menu-abrir, .menu-cerrar{
   display: none;
 }
 
 .select {
-    /*background-color: #D92530;*/
     background-color: #67BAAF;
-    /*color: #fff;*/
 }
-/*.select a{
-    color: #fff;
-}*/
+
 .banner {
-    /*outline: 2px red solid;*/
     margin-top: 5%;
 }
 
@@ -155,7 +138,6 @@ figure {
 
 .contenserv {
     width: 100%;
-    /*text-align: center;*/
 }
 
 .contendivs {
@@ -173,7 +155,6 @@ figure {
     background-size: cover;
     width: 300px;
     height: 250px;
-    /*margin: 30px;*/
     margin-left: 3%;
     margin-top: 5%;
     float: left;
@@ -189,7 +170,6 @@ figure {
     background-size: cover;
     width: 300px;
     height: 250px;
-    /*margin: 30px;*/
     margin-left: 3%;
     margin-top: 5%;
     float: left;
@@ -205,7 +185,6 @@ figure {
     background-size: cover;
     width: 300px;
     height: 250px;
-    /*margin: 30px;*/
     margin-left: 3%;
     margin-top: 5%;
     float: left;
@@ -325,7 +304,6 @@ figure {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    /*background-attachment: fixed;*/
     overflow: hidden;
 }
 
