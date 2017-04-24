@@ -49,7 +49,7 @@
 
            <label for="website">Teléfono:</label>
 
-           <input type="url" name="telefono" placeholder="Escriba su numero de teléfono" required />
+           <input type="text" name="telefono" placeholder="Escriba su numero de teléfono" required />
 
        </li>
 
