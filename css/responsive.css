@@ -1075,8 +1075,32 @@
 }
 
 @media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
-  .contendivs
+  /*.contendivs
   {
+    width: 100%;
+  }*/
+
+  /*.contendivs{
+    
+  }*/
+
+  .contenserv .contendivs
+  {
+    width: 100%;
+  }
+
+  .contendivs .imagen{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen2{
+    margin: 5% 0px;
+    width: 100%;
+  }
+
+  .contendivs .imagen3{
+    margin: 5% 0px;
     width: 100%;
   }
 
