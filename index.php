@@ -21,7 +21,7 @@
 
 	<article class="banner">
 		<p class="tit text-primary">LIMPIEZA COMPLETA!</p>
-		<p class="subtit">Limpiamos los hogares y centros de trabajo</p>
+		<p class="subtit">Limpiamos centros de trabajo</p>
 	</article>
 
 	<div class="btn-toolbar botonb" role="toolbar">
@@ -47,6 +47,14 @@
 		</div>
 	</div>
 
+		<div class="imagen3">
+	<article class="icono"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;Vigilancia</article>
+		<div class="info">
+			<p class="headline">Vigilancia</p>
+			<p class="info2">Mantenemos sus instalaciones seguras, contamos con guardias de seguridad con experiencia en el área.</p>
+		</div>
+	</div>
+
 	<div class="imagen2">
 	<article class="icono2"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;CCTV</article>
 		<div class="info">
@@ -55,13 +63,7 @@
 		</div>
 	</div>
 
-	<div class="imagen3">
-	<article class="icono"><i class="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;Vigilancia</article>
-		<div class="info">
-			<p class="headline">Vigilancia</p>
-			<p class="info2">Mantenemos sus instalaciones seguras, contamos con guardias de seguridad con experiencia en el área asi como instación de camaras CCTV, mallas electricas, sistemas de alarmas, etc.</p>
-		</div>
-	</div>
+
 </div>
 
 <div class="btn-toolbar boton" role="toolbar">
@@ -76,7 +78,7 @@
 
 <article class="bannerindexabajo">
 <figure class="img-impeza"><img src="img/impeza.png" class="img-responsive" alt=""></figure>
-	<p>Somos la mejor inversión en la vigilancia de sus oficinas.</p>
+	<p>Somos la mejor inversión en personal de vigilancia para sus oficinas.</p>
 	<div class="btn-toolbar boton" role="toolbar">
   <a href="vistas/contacto.php">
 		  	<button onclick="" type="button" class="btn btn-primary btn-lg">

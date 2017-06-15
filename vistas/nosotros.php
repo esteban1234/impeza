@@ -19,7 +19,7 @@
 	</header>
 	<article class="banner">
 		<p class="tit text-primary">SEGURIDAD COMPLETA!</p>
-<p class="subtit">Monitoriamos hogares y centros de trabajo</p>
+<p class="subtit">Personal de vigilancia para centros de trabajo</p>
 	</article>
 	<div class="btn-toolbar botonb" role="toolbar">
   <a href="contacto.php">
@@ -33,14 +33,14 @@
 <article class="contenedor">
 <h1 class="alserv text-primary">QUIENES SOMOS</h1>
 <article class="texton">
-	<p class="textndentro"><strong>Impeza</strong> es una empresa que se dedica a los servicios de vigilancia por CCTV y personal activo y servicios de limpieza, contando amplia experiencia para los diferentes retos que se presentan hoy en dia.  Actualmente contamos con la gama de servicios más completos.  Con la finalidad de cumplir las expectativas que nos son demandantes en el área de seguridad y limpieza. </p>
+	<p class="textndentro"><strong>Impeza</strong> es una empresa que se dedica a los servicios de vigilancia por personal activo y servicios de limpieza, contando amplia experiencia para los diferentes retos que se presentan hoy en dia.  Actualmente contamos con la gama de servicios más completos.  Con la finalidad de cumplir las expectativas que nos son demandantes en el área de seguridad y limpieza. </p>
 </article>
 
 <article class="contienetextoeimagenes">
 	<article class="textomvv">
 	<article class="mision">
 		<p class="misiontit">MISION</p>
-		<p class="misionsubtit">Ofrecer servicios a nuestros clientes con la mayor calidad y responsabilidad, para obtener la satisfacción completa de los hogares y empresas.</p>
+		<p class="misionsubtit">Ofrecer servicios de limpieza y vigilancia a nuestros clientes con la mayor calidad y responsabilidad, para obtener la satisfacción completa en sus empresas.</p>
 	</article>
 
 	<article class="mision">
